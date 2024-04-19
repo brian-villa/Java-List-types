@@ -142,23 +142,5 @@ public class ListaDuplaCircular {
 
         return -1; // Retorna -1 se o elemento não for encontrado na lista
     }
-
-    // Métodos getters e setters para o nó inicial da lista
-    public No getInicio() {
-        return inicio;
-    }
-
-    public void setInicio(No inicio) {
-        this.inicio = inicio;
-    }
-
-    // Métodos getters e setters para o nó final da lista
-    public No getFim() {
-        return fim;
-    }
-
-    public void setFim(No fim) {
-        this.fim = fim;
-    }
 }
 
