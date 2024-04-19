@@ -1,7 +1,5 @@
 package Models;
 
-import Models.No;
-
 public class ListaDuplaCircular {
     private No inicio;
     private No fim;
